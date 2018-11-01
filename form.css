@@ -1,0 +1,19 @@
+body{
+    background-image: url("5.jpg");
+}
+label{
+    font-family: "Arial";
+    color: azure;
+}
+h2{
+    font-family: "Agency Black";
+    color: aliceblue;
+}
+legend{
+    font-family: "Agency FB";
+    color: white;
+}
+th{
+    font-family: "Arial Black";
+    color: aliceblue;
+}
